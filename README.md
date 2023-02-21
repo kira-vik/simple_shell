@@ -7,19 +7,16 @@ This project is an implementation of the shell created as the final project for 
  - [Description]
  - [Installation]
  - [Usage]
- - [Example]
  - [Contributors]
- - [Acknowledgements]
 
 ## Description 
 This is a shell written in [C](https://en.wikipedia.org/wiki/C_(programming_language)).
 
-## Installation :wrench:
+## Installation 
 Clone the below repository and compile the files into an executable using the GCC compiler.
 ```
 https://github.com/kira-vik/simple_shell.git.
 ```
-
 
 ### Basic usage
 - First, [fork this repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
